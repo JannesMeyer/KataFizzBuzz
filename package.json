@@ -1,0 +1,15 @@
+{
+  "name": "KataFizzBuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz",
+  "main": "src/fizzbuzz.js",
+  "scripts": {
+    "start": "node ./src/fizzbuzz.js",
+    "test": "./node_modules/.bin/jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^2.2.1"
+  },
+  "author": "Jannes Meyer <jannes.meyer@gmail.com>",
+  "license": "ISC"
+}
